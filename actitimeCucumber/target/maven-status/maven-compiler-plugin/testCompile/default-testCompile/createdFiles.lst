@@ -1,0 +1,8 @@
+StepsForHooks\HooksDemoSteps.class
+pages\LoginPage.class
+StepDefinitions\TestRunnerForBackground.class
+StepDefinitions\CreateCustomer.class
+StepDefinitions\TestRunner.class
+StepDefinitions\LoginWithTags.class
+StepDefinitions\LoginSteps.class
+StepDefinitions\TestRunnerForHooks.class
